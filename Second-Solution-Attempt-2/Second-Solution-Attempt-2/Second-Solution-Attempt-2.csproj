@@ -74,6 +74,8 @@
     <Compile Include="Square.cs" />
     <Compile Include="ContactCreationTests.cs" />
     <Compile Include="InitContactData.cs" />
+    <Compile Include="GroupRemovalTest.cs" />
+    <Compile Include="TestBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
